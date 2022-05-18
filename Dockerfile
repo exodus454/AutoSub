@@ -1,5 +1,5 @@
 #ARG BASEIMAGE=ubuntu:18.04
-ARG BASEIMAGE=nvidia/cuda:11.2-cudnn8-runtime-ubuntu20.04
+ARG BASEIMAGE=nvidia/cuda:11.4.0-cudnn8-runtime-ubuntu20.04
 
 FROM ${BASEIMAGE}
 
