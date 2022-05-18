@@ -17,7 +17,7 @@ setup(
     long_description=README,
     install_requires=INSTALL_PACKAGES,
     long_description_content_type="text/markdown",
-    url="https://github.com/abhirooptalasila/AutoSub",
+    url="https://github.com/exodus454/AutoSub",
     keywords=['speech-to-text','deepspeech','machine-learning'],
     classifiers=[
         "Programming Language :: Python :: 3",
